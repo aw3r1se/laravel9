@@ -2,6 +2,7 @@
 ## Clone
  - git clone --recurse-submodules {url}
 ## Installation
+ - cd {app_name}
  - cp .env.example .env
  - cd laradock
  - cp .env.example .env
